@@ -1,0 +1,11 @@
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\bin\Debug\MoreHardCalculator.exe.config
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\bin\Debug\MoreHardCalculator.exe
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\bin\Debug\MoreHardCalculator.pdb
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\obj\Debug\MoreHardCalculator.csproj.AssemblyReference.cache
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\obj\Debug\MoreHardCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\obj\Debug\MoreHardCalculator.Form1.resources
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\obj\Debug\MoreHardCalculator.Properties.Resources.resources
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\obj\Debug\MoreHardCalculator.csproj.GenerateResource.cache
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\obj\Debug\MoreHardCalculator.csproj.CoreCompileInputs.cache
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\obj\Debug\MoreHardCalculator.exe
+D:\Programming\C#\MoreHardCalculator\MoreHardCalculator\obj\Debug\MoreHardCalculator.pdb
